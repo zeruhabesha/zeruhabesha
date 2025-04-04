@@ -19,17 +19,6 @@
   <li>💬 Ask me about MERN stack, UI/UX design, or anything tech-related!</li>
 </ul>
 
-<h2>⚡ Professional Experience</h2>
-
-<p>
-  At <strong>Beta Tech Hub</strong>, I led the development of several significant projects:
-</p>
-
-<ul>
-  <li><strong>Property Management System</strong>: Architected and implemented a comprehensive system that streamlined tenant management, maintenance requests, and financial tracking.</li>
-  <li><strong>Tender Management System</strong>: Developed a solution that revolutionized the procurement process by automating bid submissions, evaluations, and award notifications.</li>
-  <li><strong>Medical Practice Application</strong>: Created a full-stack solution that integrated appointment scheduling, patient records management, and billing systems, improving operational efficiency by 40%.</li>
-</ul>
 
 <h2>🛠️ Tech Stack</h2>
 
