@@ -1,16 +1,121 @@
-## Hi there 👋
+<h1 align="center">Zerubabel Habesha</h1>
 
-<!--
-**zeruhabesha/zeruhabesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;UI%2FUX+Designer;Graphics+Designer" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 About Me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  With 3+ years of experience as a Full Stack Developer, alongside over 5 years in graphic and UI design, I bring a strong blend of technical and creative expertise to create robust, user-friendly applications.
+</p>
+
+<ul>
+  <li>🔭 I'm currently working on innovative web and mobile applications</li>
+  <li>🌱 I'm constantly learning and improving my skills in modern web technologies</li>
+  <li>👯 I'm looking to collaborate on open source projects and innovative applications</li>
+  <li>💬 Ask me about MERN stack, UI/UX design, or anything tech-related!</li>
+</ul>
+
+<h2>🚀 Professional Experience</h2>
+
+<p>
+  At <strong>Beta Tech Hub</strong>, I led the development of several significant projects:
+</p>
+
+<ul>
+  <li><strong>Property Management System</strong>: Architected and implemented a comprehensive system that streamlined tenant management, maintenance requests, and financial tracking.</li>
+  <li><strong>Tender Management System</strong>: Developed a solution that revolutionized the procurement process by automating bid submissions, evaluations, and award notifications.</li>
+  <li><strong>Medical Practice Application</strong>: Created a full-stack solution that integrated appointment scheduling, patient records management, and billing systems, improving operational efficiency by 40%.</li>
+</ul>
+
+<h2>🛠️ Tech Stack</h2>
+
+<div align="center">
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/-CoreUI-3C4B64?style=for-the-badge&logo=coreui&logoColor=white" alt="CoreUI" />
+  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  
+  <h3>Database</h3>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  
+  <h3>Mobile & CMS</h3>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  
+  <h3>Design</h3>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/-CapCut-00C4CC?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+</div>
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeruhabesha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruhabesha&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeruhabesha&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<h2>🎓 Education & Certifications</h2>
+
+<ul>
+  <li>
+    <strong>Bachelor's Degree in Computer Science</strong> (2016 - 2020)<br>
+    Completed a comprehensive computer science program with focus on software development and system design.
+  </li>
+  <li>
+    <strong>CCNA Certification</strong> (2023 - 2024)<br>
+    Cisco Certified Network Associate certification demonstrating networking expertise and infrastructure knowledge.
+  </li>
+</ul>
+
+<h2>💡 What Sets Me Apart</h2>
+
+<p>
+  My dual expertise in both development and design allows me to bridge the gap between technical functionality and aesthetic appeal. With over 5 years of experience in graphic design and UI/UX, using tools like Figma, Adobe Photoshop, and Illustrator, I create applications that are not only powerful and efficient but also visually compelling and intuitive to use.
+</p>
+
+<h2>📫 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:zeruhabesha09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-zeruhabesha09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://t.me/yourusername">
+    <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="tel:+0935964964">
+    <img src="https://img.shields.io/badge/Phone-0935964964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeruhabesha&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <p><strong>Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaboration.</strong></p>
+</div>
+
+<!-- Additional HTML elements for visual appeal -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
