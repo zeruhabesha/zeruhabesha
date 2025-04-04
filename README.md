@@ -97,11 +97,14 @@
   <a href="mailto:zeruhabesha09@gmail.com">
     <img src="https://img.shields.io/badge/Email-zeruhabesha09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/zeru_hab">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="tel:+0935964964">
     <img src="https://img.shields.io/badge/Phone-0935964964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+    <a href="https://zerihunkibret.vercel.app">
+    <img src="https://img.shields.io/badge/Phone-0935964964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Personal Website" />
   </a>
 </div>
 
