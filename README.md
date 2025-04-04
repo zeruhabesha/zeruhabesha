@@ -33,7 +33,7 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<div align="center">
+<div align="">
   <h3>Frontend</h3>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
