@@ -65,11 +65,7 @@
 
 
 
-<h2>💡 What Sets Me Apart</h2>
 
-<p>
-  My dual expertise in both development and design allows me to bridge the gap between technical functionality and aesthetic appeal. With over 5 years of experience in graphic design and UI/UX, using tools like Figma, Adobe Photoshop, and Illustrator, I create applications that are not only powerful and efficient but also visually compelling and intuitive to use.
-</p>
 
 <h2>🌐 Portfolio & Contact</h2>
 
