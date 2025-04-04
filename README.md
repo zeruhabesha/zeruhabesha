@@ -95,7 +95,4 @@
   <p><strong>Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaboration.</strong></p>
 </div>
 
-<!-- Footer with wave animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+
