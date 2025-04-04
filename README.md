@@ -11,13 +11,13 @@
 </p>
 
 <ul>
-  <li>🔭 I'm currently working on innovative web and mobile applications</li>
-  <li>🌱 I'm constantly learning and improving my skills in modern web technologies</li>
-  <li>👯 I'm looking to collaborate on open source projects and innovative applications</li>
+  <li>💻 I'm currently working on innovative web and mobile applications</li>
+  <li>📚 I'm constantly learning and improving my skills in modern web technologies</li>
+  <li>🤝 I'm looking to collaborate on open source projects and innovative applications</li>
   <li>💬 Ask me about MERN stack, UI/UX design, or anything tech-related!</li>
 </ul>
 
-<h2>🚀 Professional Experience</h2>
+<h2>⚡ Professional Experience</h2>
 
 <p>
   At <strong>Beta Tech Hub</strong>, I led the development of several significant projects:
@@ -91,20 +91,23 @@
   My dual expertise in both development and design allows me to bridge the gap between technical functionality and aesthetic appeal. With over 5 years of experience in graphic design and UI/UX, using tools like Figma, Adobe Photoshop, and Illustrator, I create applications that are not only powerful and efficient but also visually compelling and intuitive to use.
 </p>
 
-<h2>📫 Connect With Me</h2>
+<h2>🌐 Portfolio & Contact</h2>
 
 <div align="center">
+  <a href="https://zerihunkibret.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website" />
+  </a>
+  
   <a href="mailto:zeruhabesha09@gmail.com">
     <img src="https://img.shields.io/badge/Email-zeruhabesha09%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  
   <a href="https://t.me/zeru_hab">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  
   <a href="tel:+0935964964">
     <img src="https://img.shields.io/badge/Phone-0935964964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-    <a href="https://zerihunkibret.vercel.app">
-    <img src="https://img.shields.io/badge/Phone-0935964964-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Personal Website" />
   </a>
 </div>
 
@@ -118,7 +121,7 @@
   <p><strong>Thanks for visiting my profile! Feel free to check out my repositories and don't hesitate to reach out for collaboration.</strong></p>
 </div>
 
-<!-- Additional HTML elements for visual appeal -->
+<!-- Footer with wave animation -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
