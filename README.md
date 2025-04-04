@@ -74,18 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeruhabesha&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-<h2>🎓 Education & Certifications</h2>
 
-<ul>
-  <li>
-    <strong>Bachelor's Degree in Computer Science</strong> (2016 - 2020)<br>
-    Completed a comprehensive computer science program with focus on software development and system design.
-  </li>
-  <li>
-    <strong>CCNA Certification</strong> (2023 - 2024)<br>
-    Cisco Certified Network Associate certification demonstrating networking expertise and infrastructure knowledge.
-  </li>
-</ul>
 
 <h2>💡 What Sets Me Apart</h2>
 
