@@ -61,8 +61,9 @@ With over **3 years of experience** in full-stack development and **5+ years** i
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeruhabesha&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=zeruhabesha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
+
 
 ---
 
