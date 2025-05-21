@@ -136,37 +136,3 @@ With over **3 years of experience** in full-stack development and **5+ years** i
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=120&section=footer" />
 </div>
-```
-
-## Key Improvements
-
-1. **Added Header/Footer Wave Animation**: Using capsule-render.vercel.app to create a visually appealing header and footer with your name.
-
-2. **Reorganized Layout**: Placed contact information at both the top and bottom for better accessibility.
-
-3. **Added Collapsible Sections**: Used `<details>` tags to make your tech stack sections expandable/collapsible.
-
-4. **Added Code Animation**: Included a coding animation GIF next to your About Me section.
-
-5. **Improved Visual Hierarchy**: Better spacing, alignment, and organization of content.
-
-6. **Added GitHub Trophies**: Included a GitHub trophies section to showcase your achievements.
-
-7. **Consistent Color Scheme**: Used a consistent blue color theme (0366D6) throughout the README.
-
-8. **Enhanced Badge Styling**: Made badges more consistent in style and size.
-
-## Customizing Your Typing SVG
-
-I noticed you're using the readme-typing-svg tool. To customize it further:
-
-1. Visit [readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com)
-2. Adjust parameters like:
-   - Font (Fira Code works well)
-   - Size (30px is good for headers)
-   - Color (0366D6 to match your theme)
-   - Duration and pause times
-   - Center alignment
-
-The tool will generate the markdown code you can copy directly into your README.
-
