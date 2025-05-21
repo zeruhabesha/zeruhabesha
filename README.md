@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=200&section=header&text=Zerihun%20Kibret&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;UI%2FUX+Designer;Graphics+Designer" alt="Typing animation showing roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0366D6&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer;UI%2FUX+Designer;JavaScript+%26+TypeScript+Expert" alt="Typing animation showing roles" />
   
   <p>
     <a href="https://zerihunkibret.vercel.app" target="_blank">
@@ -24,47 +24,54 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-With over **3 years of experience** in full-stack development and **5+ years** in graphic and UI design, I bring a balanced skill set to build intuitive, performant, and scalable applications.
+With over **3 years of experience** in full-stack development with **JavaScript & TypeScript** and **5+ years** in graphic and UI design, I bring a balanced skill set to build intuitive, performant, and scalable applications.
 
-- 🔭 Currently crafting innovative web and mobile solutions
-- 📚 Always learning new tools and trends in modern tech
+- 🔭 Currently crafting innovative web and mobile solutions with React, Next.js, and TypeScript
+- 📚 Always learning new tools and trends in modern JavaScript ecosystems
 - 🤝 Open to collaborating on open-source and creative tech projects
-- 💬 Ask me about the MERN stack, UI/UX, or anything tech-related!
-- ⚡ Fun fact: I love turning complex problems into elegant solutions
+- 💬 Ask me about React, TypeScript, Node.js, or anything tech-related!
+- ⚡ Fun fact: I love turning complex problems into elegant solutions with clean TypeScript code
 
 <br />
 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🚀 Frontend</b></summary>
+<summary><b>🚀 Frontend JavaScript & TypeScript</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/-CoreUI-3C4B64?style=flat-square&logo=coreui&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25" />
 </p>
 </details>
 
 <details open>
-<summary><b>🧠 Backend</b></summary>
+<summary><b>🧠 Backend & APIs</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="25" />
 </p>
 </details>
 
 <details open>
-<summary><b>🗃️ Database</b></summary>
+<summary><b>🗃️ Database & State Management</b></summary>
 <br>
 <p>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/-Context_API-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
 </p>
 </details>
 
@@ -72,6 +79,7 @@ With over **3 years of experience** in full-stack development and **5+ years** i
 <summary><b>📱 Mobile & CMS</b></summary>
 <br>
 <p>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" height="25" />
 </p>
@@ -91,17 +99,47 @@ With over **3 years of experience** in full-stack development and **5+ years** i
 
 <br />
 
+## 💻 Featured JavaScript & TypeScript Projects
+
+<div align="center">
+  <a href="https://github.com/zeruhabesha/project-name-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zeruhabesha/project-name-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-2&theme=tokyonight" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/zeruhabesha/project-name-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-3&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zeruhabesha/project-name-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-4&theme=tokyonight" />
+  </a>
+</div>
+
+<br />
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/zeruhabesha">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeruhabesha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruhabesha&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeruhabesha&layout=compact&theme=tokyonight&hide=php" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeruhabesha&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<br />
+
+## 🔧 My Coding Languages
+
+<div align="center">
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-hQDoVWlVNBbrwuXhe6o8RHwdgkd4Gv.png" alt="Most Used Languages" width="600" />
+  <p><i>Note: While my GitHub stats show more PHP, my recent focus and expertise is in JavaScript and TypeScript development.</i></p>
 </div>
 
 <br />
