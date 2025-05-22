@@ -102,18 +102,21 @@ With over **3 years of experience** in full-stack development with **JavaScript 
 ## 💻 Featured JavaScript & TypeScript Projects
 
 <div align="center">
-  <a href="https://github.com/zeruhabesha/project-name-1">
+  <a href="https://github.com/zeruhabesha/pms-main-front">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zeruhabesha/project-name-2">
+  <a href="https://github.com/zeruhabesha/NAHORagri">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-2&theme=tokyonight" />
   </a>
 </div>
 <div align="center">
-  <a href="https://github.com/zeruhabesha/project-name-3">
+  <a href="https://github.com/zeruhabesha/cafe-management">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-3&theme=tokyonight" />
   </a>
-  <a href="https://github.com/zeruhabesha/project-name-4">
+  <a href="https://github.com/zeruhabesha/Ethio-Tech-Addis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-4&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/zeruhabesha/zerihunkibret">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zeruhabesha&repo=project-name-4&theme=tokyonight" />
   </a>
 </div>
