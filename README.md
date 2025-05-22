@@ -173,4 +173,4 @@ With over **3 years of experience** in full-stack development with **JavaScript 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=120&section=footer" />
-</div>
+</div> 
